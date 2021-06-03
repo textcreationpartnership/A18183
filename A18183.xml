@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1574, an alm[a]nacke and progno[sti]cation for the yer[e] of our Lord God M.D.lxxiiii ... composed and calculated ... by Maister Henry Lowe ...</title>
+            <author>Low, Henry, fl. 1554-1574.</author>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A18183</idno><idno type="EEBO-CITATION">23435552</idno>
+  <idno type="VID">26630</idno>
+  <idno type="EEBO-PROQUEST">2240906162</idno>
+  <idno type="STC">STC 482.12</idno>
+  <idno type="STC">ESTC S4494</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A18183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1826:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>1574, an alm[a]nacke and progno[sti]cation for the yer[e] of our Lord God M.D.lxxiiii ... composed and calculated ... by Maister Henry Lowe ...</title>
+                  <author>Low, Henry, fl. 1554-1574.</author>
+               </titleStmt>
+               <extent>[4+] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Watkins and J. Roberts,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1574]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publishers suggested by STC (2nd ed.).</note>
+                  <note>Imperfect: fragment; torn, with some loss of print.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Almanacs, English.</term>
+               <term type="topical_term">Ephemerides.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:26630:1"/>
+            <pb facs="tcp:26630:1"/>
+            <p>
+               <figure>
+                  <figDesc>illustrated frame</figDesc>
+               </figure>
+            </p>
+            <p>
+               <hi>1574. An Alma<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>
+                     <g ref="char:EOLunhyphen"/>nacke and prognos<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+                  <g ref="char:EOLunhyphen"/>cation, for the ye<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of our Lord God</hi> M.D.lxxiiii. Whiche yere is from the begynnyng of the worlde. <hi>5536.</hi> C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mposed and calculated in S<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by <hi>maister Hertry Lovve,</hi> docto<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Phisicke.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut with sky and moon; half missing</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:26630:2"/>
+            <head>
+               <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eclaration of the thinges</hi> conteyned in this Almanacke.</head>
+            <list>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en number or Prime, is xvii.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cle of the Sonne, is xv.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>minical letter, is C.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ima, is the .vii. of February.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sima, or first sunday in Lent, the .28. of Feb.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is the xxi. day of February.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mas &amp; Shrouetyde. viii. weekes, &amp; one day.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> xi. of Apryl.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g is the xvi. day of May.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> xx. of May.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> xxx. of May.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is the .vi. of Iune.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the .xxviii. of Nouember.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> blood, are marked thus. t</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>exurgation, are marked thus, p</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for bathyng, thus. v</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> plantyng, with this. s</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>yng, thus. c</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> what signe and degree the <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pene is by<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oone.</item>
+               <item>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> full and quarters of the moone, with<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ea.</item>
+               <item>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> natural attractiue,</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <gap reason="missing" extent="10+ pages">
+            <desc>〈10+ pages missing〉</desc>
+         </gap>
+         <div type="month">
+            <pb facs="tcp:26630:2"/>
+            <p>
+               <table>
+                  <head>Nouember hath .xxx. dayes.</head>
+                  <head type="sub">The Sonne ryseth at .vii. of the clocke, and .xxiiii. minutes. Setteth at .iiii. of the clocke, and .vi. minutes. The day is .viii. houres long, and .lii. minutes. The nyght is .xv. houres long, and .viii. minutes.</head>
+                  <row>
+                     <cell>i</cell>
+                     <cell>d</cell>
+                     <cell>Al Saintes.</cell>
+                     <cell>Gemin. <hi>23.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell rows="8">☾ The last quatter the v. day at .iii. a clocke &amp; .xl. mi<g ref="char:EOLhyphen"/>nutes at after noone fayre &amp; wyndy.</cell>
+                  </row>
+                  <row>
+                     <cell>ii</cell>
+                     <cell>e</cell>
+                     <cell> </cell>
+                     <cell>Cancer. <hi>8.</hi>
+                     </cell>
+                     <cell>p sb</cell>
+                  </row>
+                  <row>
+                     <cell>iii</cell>
+                     <cell>f</cell>
+                     <cell>Wenefride.</cell>
+                     <cell>Cancer. <hi>22.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>iiii</cell>
+                     <cell>g</cell>
+                     <cell>Amantius.</cell>
+                     <cell>Leo. <hi>6.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>a</cell>
+                     <cell>Lete.</cell>
+                     <cell>Leo. <hi>20.</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>vi</cell>
+                     <cell>b</cell>
+                     <cell>Leonard.</cell>
+                     <cell>Virgo. <hi>3.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>vii</cell>
+                     <cell>C</cell>
+                     <cell>Wistibrode.</cell>
+                     <cell>Virgo. <hi>16.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>viii</cell>
+                     <cell>d</cell>
+                     <cell>Foure crowned.</cell>
+                     <cell>Virgo. <hi>29.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>e</cell>
+                     <cell>Theodore.</cell>
+                     <cell>Libra. <hi>11.</hi>
+                     </cell>
+                     <cell>bl</cell>
+                     <cell rows="8">● The newe moone the xiii. day at .iii. of the clocke at after noone, colde, &amp; some<g ref="char:EOLhyphen"/>what frosty.</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>f</cell>
+                     <cell> </cell>
+                     <cell>Libra. <hi>24.</hi>
+                     </cell>
+                     <cell>p</cell>
+                  </row>
+                  <row>
+                     <cell>xi</cell>
+                     <cell>g</cell>
+                     <cell>Martin.</cell>
+                     <cell>Scorpi. <hi>6.</hi>
+                     </cell>
+                     <cell>pb</cell>
+                  </row>
+                  <row>
+                     <cell>xii</cell>
+                     <cell>a</cell>
+                     <cell>
+                        <hi>Saint in Sagittari.</hi>
+                     </cell>
+                     <cell>Scorpi. <hi>17.</hi>
+                     </cell>
+                     <cell>b</cell>
+                  </row>
+                  <row>
+                     <cell>xiii</cell>
+                     <cell>b</cell>
+                     <cell>Brice.</cell>
+                     <cell>Scorpi. <hi>29.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xiiii</cell>
+                     <cell>C</cell>
+                     <cell>Transs. of Crken.</cell>
+                     <cell>Sagit. <hi>10.</hi>
+                     </cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>d</cell>
+                     <cell>Machute.</cell>
+                     <cell>Sagit. <hi>22.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>xvi</cell>
+                     <cell>e</cell>
+                     <cell>Edmonde arch.</cell>
+                     <cell>Capri. <hi>4.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>xvii</cell>
+                     <cell>f</cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ir. regn. Elizabet.</hi>
+                     </cell>
+                     <cell>Caprit. <hi>16.</hi>
+                     </cell>
+                     <cell>f</cell>
+                     <cell rows="8">☽ The fyrst querter xxi. day at <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the clocke &amp; i<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> at after noone, rayne or snowe,</cell>
+                  </row>
+                  <row>
+                     <cell>xviii</cell>
+                     <cell>g</cell>
+                     <cell>Orta. Martini.</cell>
+                     <cell>Caprit. <hi>28.</hi>
+                     </cell>
+                     <cell>pls</cell>
+                  </row>
+                  <row>
+                     <cell>xix</cell>
+                     <cell>a</cell>
+                     <cell>Elizabe. mat<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on.</cell>
+                     <cell>Aquar<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. <hi>10.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xx</cell>
+                     <cell>b</cell>
+                     <cell>Edmond king.</cell>
+                     <cell>Aquar. <hi>23.</hi>
+                     </cell>
+                     <cell>b</cell>
+                  </row>
+                  <row>
+                     <cell>xxi</cell>
+                     <cell>C</cell>
+                     <cell>Presenta of Ma.</cell>
+                     <cell>Pisces. <hi>6.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>xxii</cell>
+                     <cell>d</cell>
+                     <cell>Cyclle.</cell>
+                     <cell>Pisces. <hi>19.</hi>
+                     </cell>
+                     <cell>pbl</cell>
+                  </row>
+                  <row>
+                     <cell>xxiii</cell>
+                     <cell>e</cell>
+                     <cell>Clement.</cell>
+                     <cell>Aries. <hi>3.</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>xxiiii</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>Eri<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </table>
+            </p>
+         </div>
+         <div type="month">
+            <pb facs="tcp:26630:3"/>
+            <p>
+               <table>
+                  <head>December hath. xxxi. dayes.</head>
+                  <head type="sub">The Sonne ryseth at .viii. of the cloeke, and .xii. minutes. Setteth at three of the clocke, and .xlviii. minutes. The day is .vii. hour slong, and .xxxviii. minutes. The nyght is .xvi. houres long, and .xxii. minutes.</head>
+                  <row>
+                     <cell>i</cell>
+                     <cell>f</cell>
+                     <cell>Elegius.</cell>
+                     <cell>Leo. <hi>1.</hi>
+                     </cell>
+                     <cell>s</cell>
+                     <cell rows="8">☽ The last quarter the v. day at, v. a clocke .xl. min. in the morning frost and colde exceedyng.</cell>
+                  </row>
+                  <row>
+                     <cell>ii</cell>
+                     <cell>g</cell>
+                     <cell>Libane.</cell>
+                     <cell>Leo. <hi>15.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>iii</cell>
+                     <cell>a</cell>
+                     <cell>Deposi. of Osm.</cell>
+                     <cell>Leo. <hi>29.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>iiii</cell>
+                     <cell>b</cell>
+                     <cell>Barbara.</cell>
+                     <cell>Virgo. <hi>12.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>C</cell>
+                     <cell>Sabe.</cell>
+                     <cell>Virgo. <hi>25.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>vi</cell>
+                     <cell>d</cell>
+                     <cell>Nicholas.</cell>
+                     <cell>Libra. <hi>8.</hi>
+                     </cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>vii</cell>
+                     <cell>e</cell>
+                     <cell>Octa. of Apdrew.</cell>
+                     <cell>Libra. <hi>20.</hi>
+                     </cell>
+                     <cell>p</cell>
+                  </row>
+                  <row>
+                     <cell>viii</cell>
+                     <cell>f</cell>
+                     <cell>Concept. of. Ma.</cell>
+                     <cell>Scorpio. <hi>3.</hi>
+                     </cell>
+                     <cell>p</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>g</cell>
+                     <cell>Ciprian.</cell>
+                     <cell>Scorpi. <hi>14.</hi>
+                     </cell>
+                     <cell>p</cell>
+                     <cell rows="8">● The newe moone the xiii. daye, at x. of the clocke hefore noone, colde frost and snowe.</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>a</cell>
+                     <cell>Eulali.</cell>
+                     <cell>Scorpi. <hi>26.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xi</cell>
+                     <cell>b</cell>
+                     <cell>Damase.</cell>
+                     <cell>Sagitta. <hi>8.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xii</cell>
+                     <cell>C</cell>
+                     <cell>
+                        <hi>Sonne in Caprient.</hi>
+                     </cell>
+                     <cell>Sagit. <hi>20.</hi>
+                     </cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>xiii</cell>
+                     <cell>d</cell>
+                     <cell>Lucie.</cell>
+                     <cell>Capricor. <hi>1.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>xiiii</cell>
+                     <cell>e</cell>
+                     <cell>Othile.</cell>
+                     <cell>Caprit. <hi>13.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>f</cell>
+                     <cell>Emver weke.</cell>
+                     <cell>Capric. <hi>25.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>xvi</cell>
+                     <cell>g</cell>
+                     <cell>Osapientia.</cell>
+                     <cell>Aquari. <hi>7.</hi>
+                     </cell>
+                     <cell>ls</cell>
+                  </row>
+                  <row>
+                     <cell>xvii</cell>
+                     <cell>a</cell>
+                     <cell>Lazarus.</cell>
+                     <cell>Aquari. <hi>19.</hi>
+                     </cell>
+                     <cell>pls</cell>
+                     <cell rows="8">☾ The fyrst quarter the xxii. day at .iiii. a clock .xl. min. in the morning fayre: but som<g ref="char:EOLhyphen"/>what frosty.</cell>
+                  </row>
+                  <row>
+                     <cell>xviii</cell>
+                     <cell>b</cell>
+                     <cell>Gracian.</cell>
+                     <cell>Pisces. <hi>2.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xix</cell>
+                     <cell>C</cell>
+                     <cell>Venesi</cell>
+                     <cell>Pisces. <hi>15.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xx</cell>
+                     <cell>d</cell>
+                     <cell>Iulian. Fast.</cell>
+                     <cell>Pisces. <hi>28.</hi>
+                     </cell>
+                     <cell>pb</cell>
+                  </row>
+                  <row>
+                     <cell>xxi</cell>
+                     <cell>e</cell>
+                     <cell>Thomas <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fe.</cell>
+                     <cell>Aries. <hi>12.</hi>
+                     </cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>xxii</cell>
+                     <cell>f</cell>
+                     <cell>XXX. Martirs.</cell>
+                     <cell>Aries. <hi>26.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>xxiii</cell>
+                     <cell>g</cell>
+                     <cell>Victor</cell>
+                     <cell>Taur. <hi>11.</hi>
+                     </cell>
+                     <cell>s</cell>
+                  </row>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </table>
+            </p>
+            <pb facs="tcp:26630:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
